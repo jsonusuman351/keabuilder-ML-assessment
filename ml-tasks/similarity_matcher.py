@@ -1,7 +1,7 @@
 """
 Similarity Matcher for KeaBuilder
 - Matches user inputs (leads, prompts) using cosine similarity
-- Lightweight, production-ready logic
+- Lightweight, production-ready logic.
 """
 
 from sklearn.feature_extraction.text import TfidfVectorizer
